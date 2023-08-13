@@ -1,6 +1,6 @@
-import { Box, Divider, Heading, HStack, VStack, Text } from "native-base";
-import React, { useState } from "react";
-import { Alert, Modal, StyleSheet, Pressable, View } from "react-native";
+import { Box, Divider, Heading, HStack } from "native-base";
+import React from "react";
+import { Alert, Modal, StyleSheet, View } from "react-native";
 import { Colors } from "../color";
 import CustomBtn from "./CustomBtn";
 import { AntDesign } from "@expo/vector-icons";

@@ -43,7 +43,7 @@ const renderIterms = (data) => (
             alt={data.item.name}
             w="full"
             h={24}
-            resizeMode="contain"
+            resizeMode="cover"
           />
         </Center>
         <VStack w="60%" px={2} space={2}>

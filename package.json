@@ -24,7 +24,9 @@
     "react-native-svg": "^12.3.0",
     "react-native-swipe-list-view": "^3.2.9",
     "react-native-tab-view": "^3.1.1",
-    "react-native-web": "~0.18.11"
+    "react-native-web": "~0.18.11",
+    "expo-updates": "~0.16.4",
+    "@expo/webpack-config": "^18.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"

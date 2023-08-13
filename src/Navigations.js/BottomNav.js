@@ -1,7 +1,5 @@
-import { View, Text } from "react-native";
 import React from "react";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
-import HomeScreen from "../screens/HomeScreen";
 import { Center, Pressable } from "native-base";
 import { Colors } from "../color";
 import {
